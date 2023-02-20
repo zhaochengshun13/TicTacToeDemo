@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderShaderInfo-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\UE4Project\TicTacToeDemo\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\DebugGame\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+"G:\UE4Project\TicTacToeDemo\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\DebugGame\RiderShaderInfo\Default.rc2.res"
+/OUT:"G:\UE4Project\TicTacToeDemo\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\DebugGame\RiderShaderInfo\UE4Editor-RiderShaderInfo-Win64-DebugGame.lib"
